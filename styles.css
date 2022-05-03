@@ -1,0 +1,75 @@
+body {
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+a{
+    color: #f5f6f7;
+}
+h1 {
+    font-size: xx-large;
+}
+
+h1, p, .submit {
+    text-align: center;
+
+}
+p{
+    margin-bottom: 50px;
+}
+
+ form {
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+}  
+
+.text-input {
+    width: 100%;
+    background-color: #0a0a23;
+    border: none;
+}
+.Atype {
+    margin: 10px auto
+}
+label, .ll, .lt{
+    display: block;
+}
+
+.ll{
+    margin: 10px 0; 
+    background-color:#0a0a23;
+    border: none;
+    width: 100%;
+    color: white;
+}
+
+hr {
+    margin: 40px auto;
+    background-color: #3b3b4f;
+    height: 2px;
+    border: none;
+}
+
+section label {
+    margin: 10px auto;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: auto;
+  height: 33px;
+  font-size: medium;
+  border: none;
+  background-color:#3b3b4f;
+  color: white;
+}
+  /*;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
